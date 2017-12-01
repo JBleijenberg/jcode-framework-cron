@@ -15,7 +15,7 @@
   "require": {
     "php": "^7.0.0",
     "jcode/framework": "^1.0.0",
-    "dragonmantank/cron-expression": "dev-master"
+    "dragonmantank/cron-expression": "^2.0.0"
   },
   "autoload": {
     "psr-4": {
